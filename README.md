@@ -6,5 +6,5 @@ Repositorio Intenciones Tipadas Entregable 1.
 - Idea 1: Conceptualizador de bandas.
 - Idea 2: generador de biorobots.
 
-##Generador de Biorobots - Descripción Creativa
-Recibes diferentes elementos, funciones y su relación biológica directa para generar biorobots con variaciones en rareza y potencia según su conformación.
+## Generador de Biorobots - Descripción Creativa
+Recibes diferentes elementos, funciones y su relación biológica para generar robots con influencia biológica directa con variaciones en rareza y potencia según su conformación.
